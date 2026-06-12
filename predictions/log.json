@@ -1,0 +1,943 @@
+[
+ {
+  "date": "2026-06-11",
+  "stage": "Group A",
+  "home": "Mexico",
+  "away": "South Africa",
+  "neutral": false,
+  "knockout": false,
+  "elo": {
+   "home": 1987.6,
+   "away": 1672.9,
+   "diff_with_adv": 414.7
+  },
+  "expected_goals": {
+   "home": 2.36,
+   "away": 0.15
+  },
+  "probabilities": {
+   "home_win": 0.8693,
+   "draw": 0.118,
+   "away_win": 0.0126
+  },
+  "top_scorelines": [
+   {
+    "score": "2-0",
+    "prob": 0.2262
+   },
+   {
+    "score": "1-0",
+    "prob": 0.1885
+   },
+   {
+    "score": "3-0",
+    "prob": 0.1782
+   },
+   {
+    "score": "4-0",
+    "prob": 0.1053
+   },
+   {
+    "score": "0-0",
+    "prob": 0.0838
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 4,
+   "record": "Mexico 2W 1D 1L",
+   "recent": [
+    "1993-10-06: Mexico 4-0 South Africa",
+    "2000-06-07: Mexico 4-2 South Africa",
+    "2005-07-08: South Africa 2-1 Mexico",
+    "2010-06-11: South Africa 1-1 Mexico"
+   ]
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 5
+  },
+  "altitude_m": 2240,
+  "logged_at": "2026-06-12",
+  "actual": {
+   "score": "2-0",
+   "outcome": "home_win",
+   "outcome_correct": true,
+   "brier": 0.0312
+  }
+ },
+ {
+  "date": "2026-06-11",
+  "stage": "Group F",
+  "home": "South Korea",
+  "away": "Czech Republic",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 1891.7,
+   "away": 1805.6,
+   "diff_with_adv": 86.1
+  },
+  "expected_goals": {
+   "home": 1.47,
+   "away": 1.0
+  },
+  "probabilities": {
+   "home_win": 0.4675,
+   "draw": 0.2879,
+   "away_win": 0.2446
+  },
+  "top_scorelines": [
+   {
+    "score": "1-1",
+    "prob": 0.1368
+   },
+   {
+    "score": "1-0",
+    "prob": 0.1121
+   },
+   {
+    "score": "0-0",
+    "prob": 0.0973
+   },
+   {
+    "score": "2-0",
+    "prob": 0.0914
+   },
+   {
+    "score": "2-1",
+    "prob": 0.0913
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 3,
+   "record": "South Korea 1W 1D 1L",
+   "recent": [
+    "1998-05-27: South Korea 2-2 Czech Republic",
+    "2001-08-15: Czech Republic 5-0 South Korea",
+    "2016-06-05: Czech Republic 1-2 South Korea"
+   ]
+  },
+  "rest_days": {
+   "home": 8,
+   "away": 7
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": {
+   "score": "2-1",
+   "outcome": "home_win",
+   "outcome_correct": true,
+   "brier": 0.4263
+  }
+ },
+ {
+  "date": "2026-06-12",
+  "stage": "Group B",
+  "home": "Canada",
+  "away": "Bosnia and Herzegovina",
+  "neutral": false,
+  "knockout": false,
+  "elo": {
+   "home": 1906.2,
+   "away": 1658.3,
+   "diff_with_adv": 347.9
+  },
+  "expected_goals": {
+   "home": 1.86,
+   "away": 0.48
+  },
+  "probabilities": {
+   "home_win": 0.6984,
+   "draw": 0.2217,
+   "away_win": 0.0798
+  },
+  "top_scorelines": [
+   {
+    "score": "1-0",
+    "prob": 0.1703
+   },
+   {
+    "score": "2-0",
+    "prob": 0.166
+   },
+   {
+    "score": "0-0",
+    "prob": 0.1051
+   },
+   {
+    "score": "3-0",
+    "prob": 0.1027
+   },
+   {
+    "score": "1-1",
+    "prob": 0.0952
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 0,
+   "record": "Canada 0W 0D 0L",
+   "recent": []
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.8111,
+    "draw": 0.157,
+    "away_win": 0.0319
+   },
+   "maher": {
+    "home_win": 0.5414,
+    "draw": 0.2761,
+    "away_win": 0.1824,
+    "expected_goals": [
+     1.58,
+     0.82
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.27,
+   "models_disagree": true
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 6
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-12",
+  "stage": "Group D",
+  "home": "United States",
+  "away": "Paraguay",
+  "neutral": false,
+  "knockout": false,
+  "elo": {
+   "home": 1836.8,
+   "away": 1928.3,
+   "diff_with_adv": 8.5
+  },
+  "expected_goals": {
+   "home": 1.26,
+   "away": 1.12
+  },
+  "probabilities": {
+   "home_win": 0.384,
+   "draw": 0.3032,
+   "away_win": 0.3128
+  },
+  "top_scorelines": [
+   {
+    "score": "1-1",
+    "prob": 0.1436
+   },
+   {
+    "score": "0-0",
+    "prob": 0.1056
+   },
+   {
+    "score": "1-0",
+    "prob": 0.1039
+   },
+   {
+    "score": "0-1",
+    "prob": 0.0903
+   },
+   {
+    "score": "2-1",
+    "prob": 0.0825
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 9,
+   "record": "United States 5W 2D 2L",
+   "recent": [
+    "2007-07-02: United States 1-3 Paraguay",
+    "2011-03-29: United States 0-1 Paraguay",
+    "2016-06-11: United States 1-0 Paraguay",
+    "2018-03-27: United States 1-0 Paraguay",
+    "2025-11-15: United States 2-1 Paraguay"
+   ]
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.3622,
+    "draw": 0.2979,
+    "away_win": 0.34
+   },
+   "maher": {
+    "home_win": 0.4053,
+    "draw": 0.3074,
+    "away_win": 0.2873,
+    "expected_goals": [
+     1.27,
+     1.03
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.053,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 6,
+   "away": 7
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-13",
+  "stage": "Group C",
+  "home": "Brazil",
+  "away": "Morocco",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 2078.2,
+   "away": 1994.6,
+   "diff_with_adv": 83.6
+  },
+  "expected_goals": {
+   "home": 1.33,
+   "away": 0.83
+  },
+  "probabilities": {
+   "home_win": 0.4691,
+   "draw": 0.3084,
+   "away_win": 0.2225
+  },
+  "top_scorelines": [
+   {
+    "score": "1-1",
+    "prob": 0.1403
+   },
+   {
+    "score": "1-0",
+    "prob": 0.1402
+   },
+   {
+    "score": "0-0",
+    "prob": 0.1282
+   },
+   {
+    "score": "2-0",
+    "prob": 0.1014
+   },
+   {
+    "score": "2-1",
+    "prob": 0.0845
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 3,
+   "record": "Brazil 2W 0D 1L",
+   "recent": [
+    "1997-10-09: Brazil 2-0 Morocco",
+    "1998-06-16: Brazil 3-0 Morocco",
+    "2023-03-25: Morocco 2-1 Brazil"
+   ]
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.464,
+    "draw": 0.2884,
+    "away_win": 0.2475
+   },
+   "maher": {
+    "home_win": 0.4703,
+    "draw": 0.3293,
+    "away_win": 0.2004,
+    "expected_goals": [
+     1.2,
+     0.69
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.047,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 6
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-13",
+  "stage": "World Cup",
+  "home": "Qatar",
+  "away": "Switzerland",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 1577.3,
+   "away": 1970.1,
+   "diff_with_adv": -392.8
+  },
+  "expected_goals": {
+   "home": 0.33,
+   "away": 2.39
+  },
+  "probabilities": {
+   "home_win": 0.0319,
+   "draw": 0.1398,
+   "away_win": 0.8283
+  },
+  "top_scorelines": [
+   {
+    "score": "0-2",
+    "prob": 0.1875
+   },
+   {
+    "score": "0-1",
+    "prob": 0.1516
+   },
+   {
+    "score": "0-3",
+    "prob": 0.1494
+   },
+   {
+    "score": "0-4",
+    "prob": 0.0893
+   },
+   {
+    "score": "0-0",
+    "prob": 0.0708
+   }
+  ],
+  "predicted_outcome": "away_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 1,
+   "record": "Qatar 1W 0D 0L",
+   "recent": [
+    "2018-11-14: Switzerland 0-1 Qatar"
+   ]
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.0147,
+    "draw": 0.1261,
+    "away_win": 0.8591
+   },
+   "maher": {
+    "home_win": 0.0749,
+    "draw": 0.165,
+    "away_win": 0.7601,
+    "expected_goals": [
+     0.68,
+     2.48
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.099,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-13",
+  "stage": "World Cup",
+  "home": "Haiti",
+  "away": "Scotland",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 1711.2,
+   "away": 1843.2,
+   "diff_with_adv": -132.0
+  },
+  "expected_goals": {
+   "home": 0.83,
+   "away": 1.81
+  },
+  "probabilities": {
+   "home_win": 0.1562,
+   "draw": 0.2472,
+   "away_win": 0.5965
+  },
+  "top_scorelines": [
+   {
+    "score": "0-1",
+    "prob": 0.1186
+   },
+   {
+    "score": "1-1",
+    "prob": 0.1177
+   },
+   {
+    "score": "0-2",
+    "prob": 0.1172
+   },
+   {
+    "score": "1-2",
+    "prob": 0.097
+   },
+   {
+    "score": "0-0",
+    "prob": 0.082
+   }
+  ],
+  "predicted_outcome": "away_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 0,
+   "record": "Haiti 0W 0D 0L",
+   "recent": []
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.1941,
+    "draw": 0.2746,
+    "away_win": 0.5313
+   },
+   "maher": {
+    "home_win": 0.1222,
+    "draw": 0.2161,
+    "away_win": 0.6617,
+    "expected_goals": [
+     0.78,
+     2.06
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.13,
+   "models_disagree": true
+  },
+  "rest_days": {
+   "home": 8,
+   "away": 7
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-13",
+  "stage": "World Cup",
+  "home": "Australia",
+  "away": "Turkey",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 1913.4,
+   "away": 1972.2,
+   "diff_with_adv": -58.8
+  },
+  "expected_goals": {
+   "home": 1.12,
+   "away": 1.31
+  },
+  "probabilities": {
+   "home_win": 0.3045,
+   "draw": 0.299,
+   "away_win": 0.3964
+  },
+  "top_scorelines": [
+   {
+    "score": "1-1",
+    "prob": 0.1421
+   },
+   {
+    "score": "0-1",
+    "prob": 0.1026
+   },
+   {
+    "score": "0-0",
+    "prob": 0.1011
+   },
+   {
+    "score": "1-0",
+    "prob": 0.0858
+   },
+   {
+    "score": "1-2",
+    "prob": 0.0846
+   }
+  ],
+  "predicted_outcome": "away_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 2,
+   "record": "Australia 0W 0D 2L",
+   "recent": [
+    "2004-05-21: Australia 1-3 Turkey",
+    "2004-05-24: Australia 0-1 Turkey"
+   ]
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.2769,
+    "draw": 0.2932,
+    "away_win": 0.4299
+   },
+   "maher": {
+    "home_win": 0.333,
+    "draw": 0.3029,
+    "away_win": 0.3641,
+    "expected_goals": [
+     1.17,
+     1.23
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.066,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 7,
+   "away": 7
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-14",
+  "stage": "World Cup",
+  "home": "Germany",
+  "away": "Curaçao",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 2016.8,
+   "away": 1614.7,
+   "diff_with_adv": 402.1
+  },
+  "expected_goals": {
+   "home": 3.07,
+   "away": 0.26
+  },
+  "probabilities": {
+   "home_win": 0.9103,
+   "draw": 0.077,
+   "away_win": 0.0127
+  },
+  "top_scorelines": [
+   {
+    "score": "3-0",
+    "prob": 0.1719
+   },
+   {
+    "score": "2-0",
+    "prob": 0.1682
+   },
+   {
+    "score": "4-0",
+    "prob": 0.1318
+   },
+   {
+    "score": "1-0",
+    "prob": 0.1068
+   },
+   {
+    "score": "5-0",
+    "prob": 0.0808
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 0,
+   "record": "Germany 0W 0D 0L",
+   "recent": []
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.8654,
+    "draw": 0.1215,
+    "away_win": 0.0131
+   },
+   "maher": {
+    "home_win": 0.9394,
+    "draw": 0.0484,
+    "away_win": 0.0122,
+    "expected_goals": [
+     4.04,
+     0.47
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.074,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 8,
+   "away": 8
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-14",
+  "stage": "World Cup",
+  "home": "Ivory Coast",
+  "away": "Ecuador",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 1825.0,
+   "away": 2037.3,
+   "diff_with_adv": -212.3
+  },
+  "expected_goals": {
+   "home": 0.68,
+   "away": 1.36
+  },
+  "probabilities": {
+   "home_win": 0.1733,
+   "draw": 0.3046,
+   "away_win": 0.5221
+  },
+  "top_scorelines": [
+   {
+    "score": "0-1",
+    "prob": 0.1653
+   },
+   {
+    "score": "0-0",
+    "prob": 0.142
+   },
+   {
+    "score": "1-1",
+    "prob": 0.1319
+   },
+   {
+    "score": "0-2",
+    "prob": 0.1209
+   },
+   {
+    "score": "1-2",
+    "prob": 0.0818
+   }
+  ],
+  "predicted_outcome": "away_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 0,
+   "record": "Ivory Coast 0W 0D 0L",
+   "recent": []
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.1184,
+    "draw": 0.2397,
+    "away_win": 0.6418
+   },
+   "maher": {
+    "home_win": 0.2315,
+    "draw": 0.3563,
+    "away_win": 0.4122,
+    "expected_goals": [
+     0.7,
+     1.03
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.23,
+   "models_disagree": true
+  },
+  "rest_days": {
+   "home": 10,
+   "away": 7
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-14",
+  "stage": "World Cup",
+  "home": "Netherlands",
+  "away": "Japan",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 2021.9,
+   "away": 2003.7,
+   "diff_with_adv": 18.2
+  },
+  "expected_goals": {
+   "home": 1.36,
+   "away": 1.12
+  },
+  "probabilities": {
+   "home_win": 0.412,
+   "draw": 0.2943,
+   "away_win": 0.2937
+  },
+  "top_scorelines": [
+   {
+    "score": "1-1",
+    "prob": 0.1403
+   },
+   {
+    "score": "1-0",
+    "prob": 0.1016
+   },
+   {
+    "score": "0-0",
+    "prob": 0.0966
+   },
+   {
+    "score": "2-1",
+    "prob": 0.0869
+   },
+   {
+    "score": "0-1",
+    "prob": 0.0808
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 3,
+   "record": "Netherlands 2W 1D 0L",
+   "recent": [
+    "2009-09-05: Netherlands 3-0 Japan",
+    "2010-06-19: Netherlands 1-0 Japan",
+    "2013-11-16: Netherlands 2-2 Japan"
+   ]
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.375,
+    "draw": 0.2975,
+    "away_win": 0.3275
+   },
+   "maher": {
+    "home_win": 0.4498,
+    "draw": 0.2886,
+    "away_win": 0.2616,
+    "expected_goals": [
+     1.45,
+     1.05
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.075,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 6,
+   "away": 14
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ },
+ {
+  "date": "2026-06-14",
+  "stage": "World Cup",
+  "home": "Sweden",
+  "away": "Tunisia",
+  "neutral": true,
+  "knockout": false,
+  "elo": {
+   "home": 1774.5,
+   "away": 1748.6,
+   "diff_with_adv": 25.9
+  },
+  "expected_goals": {
+   "home": 1.27,
+   "away": 1.05
+  },
+  "probabilities": {
+   "home_win": 0.4015,
+   "draw": 0.3063,
+   "away_win": 0.2921
+  },
+  "top_scorelines": [
+   {
+    "score": "1-1",
+    "prob": 0.1442
+   },
+   {
+    "score": "1-0",
+    "prob": 0.112
+   },
+   {
+    "score": "0-0",
+    "prob": 0.1116
+   },
+   {
+    "score": "0-1",
+    "prob": 0.0901
+   },
+   {
+    "score": "2-1",
+    "prob": 0.0832
+   }
+  ],
+  "predicted_outcome": "home_win",
+  "adjustment": null,
+  "missing_players": null,
+  "head_to_head": {
+   "total": 4,
+   "record": "Sweden 2W 1D 1L",
+   "recent": [
+    "1976-02-28: Tunisia 1-1 Sweden",
+    "1992-04-22: Tunisia 0-1 Sweden",
+    "1999-02-10: Tunisia 0-1 Sweden",
+    "2003-02-12: Tunisia 1-0 Sweden"
+   ]
+  },
+  "components": {
+   "elo": {
+    "home_win": 0.3853,
+    "draw": 0.297,
+    "away_win": 0.3177
+   },
+   "maher": {
+    "home_win": 0.4163,
+    "draw": 0.315,
+    "away_win": 0.2687,
+    "expected_goals": [
+     1.24,
+     0.94
+    ]
+   },
+   "w_elo": 0.5,
+   "max_disagreement": 0.049,
+   "models_disagree": false
+  },
+  "rest_days": {
+   "home": 10,
+   "away": 8
+  },
+  "altitude_m": null,
+  "logged_at": "2026-06-12",
+  "actual": null
+ }
+]
